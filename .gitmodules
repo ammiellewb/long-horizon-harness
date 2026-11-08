@@ -1,0 +1,8 @@
+[submodule "textquests"]
+	path = textquests
+	url = https://github.com/ammiellewb/textquests
+	branch = ammielle/tales-scout
+[submodule "long-horizon-fork"]
+	path = long-horizon-fork
+	url = https://github.com/ammiellewb/long-horizon
+	branch = ammielle/world-model
