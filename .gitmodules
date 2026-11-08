@@ -6,3 +6,6 @@
 	path = long-horizon-fork
 	url = https://github.com/ammiellewb/long-horizon
 	branch = ammielle/world-model
+[submodule "long-horizon-scaling"]
+	path = long-horizon-scaling
+	url = https://github.com/dignissimus/long-horizon-scaling.git

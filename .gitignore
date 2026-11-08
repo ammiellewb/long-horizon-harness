@@ -13,7 +13,6 @@ __pycache__/
 *.zip
 
 # collaborator / third-party clones: referenced as submodules or README links
-long-horizon-scaling/
 long-horizon/
 base-project/
 dig-bench/
