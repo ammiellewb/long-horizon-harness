@@ -1,0 +1,1 @@
+{"complete":true,"scanners":{"cooking_rubric":{"scans":60,"results":59,"errors":0,"validation":null,"metrics":null,"tokens":116325,"model_usage":{"openrouter/openai/gpt-oss-120b":{"input_tokens":56644,"output_tokens":39066,"total_tokens":116325,"input_tokens_cache_write":0,"input_tokens_cache_read":20615,"reasoning_tokens":41806,"total_cost":null}}}}}

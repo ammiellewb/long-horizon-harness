@@ -1,0 +1,29 @@
+{
+  "scan_id": "mRKCNC3GYL2fkYanNFVjgh",
+  "scan_name": "BASE Project",
+  "timestamp": "2026-07-17T02:37:01.909649-04:00",
+  "packages": {
+    "inspect_ai": "0.3.247",
+    "inspect_scout": "0.4.44"
+  },
+  "options": {
+    "max_transcripts": 25
+  },
+  "transcripts": {
+    "type": "database",
+    "location": "/Users/ammiellewambobecker/github/BASE Project/scout_report/tq_db",
+    "filter": [],
+    "transcript_ids": {
+      "baseline_no_clues__or-gpt-oss-120b__zork1": "transcripts_20260717T063212_20307868.parquet"
+    },
+    "count": 0
+  },
+  "scanners": {
+    "parser_rejections": {
+      "name": "parser_rejections",
+      "version": 0,
+      "file": "base-project/textquests/scout/scanners.py",
+      "params": {}
+    }
+  }
+}

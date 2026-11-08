@@ -1,0 +1,29 @@
+{
+  "scan_id": "AtCXgSiZTgHWYd9RREMEu5",
+  "scan_name": "BASE Project",
+  "timestamp": "2026-07-17T02:33:39.639271-04:00",
+  "packages": {
+    "inspect_ai": "0.3.247",
+    "inspect_scout": "0.4.44"
+  },
+  "options": {
+    "max_transcripts": 25
+  },
+  "transcripts": {
+    "type": "database",
+    "location": "scout_report/tq_db",
+    "filter": [],
+    "transcript_ids": {
+      "baseline_no_clues__or-gpt-oss-120b__zork1": "transcripts_20260717T063212_20307868.parquet"
+    },
+    "count": 0
+  },
+  "scanners": {
+    "action_loops": {
+      "name": "action_loops",
+      "version": 0,
+      "file": "base-project/textquests/scout/scanners.py",
+      "params": {}
+    }
+  }
+}
